@@ -13,7 +13,9 @@ dependencies:
   flutter_localizations:
     sdk: flutter
 
-  date_range_picker: ^1.0.6
+  date_range_picker:
+    git:
+      url: https://github.com/LempereurBenjamin/date_range_picker
   datetime_picker_formfield: ^1.0.0
   dropdown_search: ^0.4.8
   flutter_colorpicker: ^0.3.4
